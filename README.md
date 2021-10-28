@@ -32,8 +32,6 @@ The main goal here is just to have fun, while hopefully learning something usefu
 
 Project:
 - setup: npm install 
-- TODO: UPDATE : compile with webpack: npm run wp / wpw 
-  : you can run the content in /build and get full debugging ability with ts files 
 - run in browser: npm run serve 
 - run tests: npm run test (all scripts are in package.json)
 
